@@ -1,0 +1,4 @@
+flask --app app run
+
+make virtual environtment : 
+python -m venv .venv
